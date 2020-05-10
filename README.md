@@ -7,7 +7,7 @@ This also serves as electronic notebook for the grocery store. The interface whi
 
 Instruction:
 
-Run the login.py file
+Run the login.py file directly or by using the command below-
 
 ```sh
 python login.py
