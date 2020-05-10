@@ -5,21 +5,14 @@ This also serves as electronic notebook for the grocery store. The interface whi
 
 ## Getting Started
 
-Instruction
+Instruction:
+
+Run the login.py file
 
 ```sh
 python login.py
 ```
 
-```sh
-Supermarket-management-system/dist/login.exe
-```
-
-```sh
-Supermarket-management-system/setupfile/grocery-store-setup.exe
-```
-
-```
 
 ## Contributing
 
