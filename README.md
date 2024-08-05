@@ -1,5 +1,5 @@
 # Supermarket Management System
-
+hassan is th king 
 The program is based on “Supermarket management system” so, the catalogue for the system is designed on Indian products. This is implemented for small scale grocery stores.
 This also serves as electronic notebook for the grocery store. The interface which is being designed for program will be user friendly. This program will use MySQL database access.
 
